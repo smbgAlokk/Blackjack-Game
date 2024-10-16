@@ -17,7 +17,7 @@ Installation
 To play the game locally, simply clone this repository and open the index.html file in your web browser.
 
 bash
-git clone https://github.com/yourusername/Blackjack-Game.git
+git clone https://github.com/smbgAlokk/Blackjack-Game.git
 cd Blackjack-Game
 open index.html
 Enjoy the game and try to beat the dealer!
